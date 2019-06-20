@@ -1,0 +1,68 @@
+# Copyright (C) 2017 Native Performance
+# This file is distributed under the same license as the Native Performance package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Native Performance 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/native-performance\n"
+"POT-Creation-Date: 2017-11-02 04:14:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-02-15 15:22-0500\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Native Performance"
+msgstr "Native Performance"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.quecodigo.com/plugins/"
+msgstr "https://www.quecodigo.com/plugins/"
+
+#. Description of the plugin/theme
+msgid "Easy Performance is an all-in-one complement that integrates, in a complete and robust core, a set of tools for the solution of common errors, optimization, performance and much more."
+msgstr "Native Performance es un complemento todo en uno que integra, en un núcleo completo y sólido, un conjunto de herramientas para la solución de errores comunes, optimización, rendimiento y mucho más."
+
+#. Author of the plugin/theme
+msgid "Qué Código"
+msgstr "Qué Código"
+
+#. Author URI of the plugin/theme
+msgid "https://www.quecodigo.com/"
+msgstr "https://www.quecodigo.com/"
+
+#: templates/page-admin.tpl:4
+msgid "Welcome to Native Performance!"
+msgstr "¡Bienvenido a Native Performance!"
+
+#: templates/page-admin.tpl
+msgid "If you like <strong>Native Performance</strong>, please %1$sleave us a rating of %2$s. Thank you!"
+msgstr "Si te gusta <strong>Native Performance</strong>, por favor %1$sdéjanos una calificación de %2$s ¡Gracias!"
+
+#: templates/page-admin.tpl
+msgid "Help us with your donation"
+msgstr "Ayúdanos con tu donación"
+
+#: templates/page-admin.tpl
+msgid "Donate to %1$s"
+msgstr "Donar a %1$s"
+
+#: templates/page-admin.tpl
+msgid "Disable"
+msgstr "Desactivar"
+
+#: templates/page-admin.tpl
+msgid "Enables"
+msgstr "Activar"
+
+#: templates/page-admin.tpl
+msgid "Visit the website of %1$s"
+msgstr "Visitar la de %1$s"
+
+#: templates/page-admin.tpl
+msgid "Activate to prevent WordPress automatically detect and generate emojis on your pages, also disables unnecessary communications that slow down and generate overloads"
+msgstr "Actívelo para evitar que WordPress detecte y genere automáticamente emojis en sus páginas, también deshabilita las comunicaciones innecesarias que disminuyen la velocidad y generan sobrecargas"

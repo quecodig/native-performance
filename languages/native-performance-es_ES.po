@@ -1,0 +1,42 @@
+# Copyright (C) 2017 Native Performance
+# This file is distributed under the same license as the Native Performance package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Native Performance 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/native-performance\n"
+"POT-Creation-Date: 2017-11-02 04:14:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-11-01 23:47-0500\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Native Performance"
+msgstr "Native Performance"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.cristiandalvarez.com/plugins/"
+msgstr "https://www.cristiandalvarez.com/plugins/"
+
+#. Description of the plugin/theme
+msgid ""
+"Easy Performance is an all-in-one complement that integrates, in a complete "
+"and robust core, a set of tools for the solution of common errors, "
+"optimization, performance and much more."
+msgstr ""
+"Native Performance es un complemento todo en uno que integra, en un núcleo "
+"completo y sólido, un conjunto de herramientas para la solución de errores "
+"comunes, optimización, rendimiento y mucho más."
+
+#. Author of the plugin/theme
+msgid "Cristian Álvarez"
+msgstr "Cristian Álvarez"
+
+#. Author URI of the plugin/theme
+msgid "https://www.cristiandalvarez.com/"
+msgstr "https://www.cristiandalvarez.com/"

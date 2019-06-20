@@ -1,0 +1,162 @@
+:root{
+	--bg-color: #f8f8f8;
+	--color-one: #7734CA;
+	--font-fam: "Roboto";
+}
+
+body{
+	height: 100%;
+	background: var(--bg-color);
+}
+
+a, a:visited{
+	color: steelblue;
+	text-decoration: none;
+}
+
+h1, h2, h3{
+	margin: 0;
+	padding: 0;
+}
+
+.nperformance-center{
+	text-align: center;
+	grid-justify-content: center;
+}
+
+@mixin reset(){
+	//Valores que pueden ir por defecto.
+	float: left;
+	display: block;
+	position: relative;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.nperformance-app{
+	@include reset();
+	margin: 0;
+	width: 100%;
+}
+
+.nperformance-container{
+	@include reset();
+	width: 100%;
+	overflow-x: hidden;
+	height: 100% !important;
+}
+
+.nperformance-header{
+	@include reset();
+	width: 100%;
+	max-width: 1240px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.nperformance-title-name{
+	@include reset();
+	padding: 22px 0;
+	font-size: 32px;
+	line-height: 46px;
+	font-family: var(--font-fam);
+	color: rgba(54, 54, 54, 0.76);
+}
+
+.nperformance-content{
+	@include reset();
+	//Grid
+	width: 100%;
+	display: grid;
+	grid-gap: 1.5em;
+}
+
+.nperformance-style{
+	width: 100%;
+	float: left;
+	border-radius: 3px;
+	background: #FFFFFF;
+	box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 5px 0 rgba(0, 0, 0, 0.16);
+}
+
+.nperformance-pX5{
+	padding: 5px;
+}
+
+@for $i from 1 through 5{
+	.nperformance-pX#{$i*10}{
+		padding: #{$i*10}px;
+	}
+}
+
+@for $i from 1 through 12{
+	.nperformance-colums-x#{$i}{
+		grid-template-columns: repeat($i, 1fr);
+	}
+}
+
+@for $i from 1 through 12{
+	.nperformance-grid-x#{$i}{
+		grid-column: span $i;
+	}
+}
+
+.nperformance-separator{
+	width: 100%;
+	float: left;
+	height: 20px;
+	display: block;
+}
+
+hr.nperformance-separator{
+	height: 0;
+}
+
+.nperformance-title{
+	width: 100%;
+	float: left;
+	font-size: 12px;
+	text-align: center;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.nperformance-body{
+	width: 100%;
+	float: left;
+	font-size: 12px;
+}
+
+.nperformance-box{
+	margin: 0;
+	padding: 10px;
+}
+
+.nperformance-title-box{
+	margin: 0;
+	width: 100%;
+	padding: 5px;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.nperformance-description-box{
+	margin: 0;
+	padding: 0 5px;
+}
+
+.nperformance-button{
+	@include reset();
+	width: 100%;
+	margin: 10px;
+	padding: 5px 10px;
+	background: #CCCCCC;
+	color: #000000 !important;
+
+	&.active{
+		color: #FFFFFF !important;
+		background: var(--color-one);
+	}
+}
