@@ -1,6 +1,6 @@
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/native-performance/)
 [![WordPress Tested](https://img.shields.io/wordpress/v/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/native-performance/)
-[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/regenerate-thumbnails/advanced/)
+[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/native-performance/advanced/)
 [![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/installs/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/native-performance/)
 [![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/r/native-performance.svg?style=flat-square)](https://wordpress.org/support/plugin/native-performance/reviews/)
 
