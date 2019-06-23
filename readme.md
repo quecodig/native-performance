@@ -1,7 +1,7 @@
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/native-performance/)
 [![WordPress Tested](https://img.shields.io/wordpress/v/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/native-performance/)
-[![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/dt/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/regenerate-thumbnails/advanced/)](https://wordpress.org/plugins/native-performance/)
-[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/installs/native-performance.svg?style=flat-square
+[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/regenerate-thumbnails/advanced/)
+[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/installs/native-performance.svg?style=flat-square)](https://wordpress.org/plugins/native-performance/)
 [![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/r/native-performance.svg?style=flat-square)](https://wordpress.org/support/plugin/native-performance/reviews/)
 
 Improve the performance of your WordPress: Reduce load times, solve common errors and more using the Native Performance plugin.
